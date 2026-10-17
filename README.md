@@ -27,3 +27,5 @@ Idei de proiect:
 3. Site pentru un magazin online
 
 Aceasta ieste o greseala de scriere
+
+Comanda "git restore README.md" a anulat modificarea test pentru exercitiul 4. Fisierul a revenit la versiunea salvata anterior.
