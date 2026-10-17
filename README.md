@@ -17,3 +17,5 @@ code --version
 1.142.0
 6d62b1d5dace93a33b3a6d3eca1317bd5e15bcb1
 x64
+
+Grupa: B
