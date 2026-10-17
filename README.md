@@ -19,3 +19,9 @@ code --version
 x64
 
 Grupa: B
+
+Idei de proiect:
+
+1. Site pentru o pensiune
+2. Site pentru un restaurant
+3. Site pentru un magazin online
