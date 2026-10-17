@@ -25,3 +25,5 @@ Idei de proiect:
 1. Site pentru o pensiune
 2. Site pentru un restaurant
 3. Site pentru un magazin online
+
+Aceasta ieste o greseala de scriere
